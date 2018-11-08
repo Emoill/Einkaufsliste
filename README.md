@@ -1,4 +1,4 @@
 # Einkaufsliste
 
-**Name: ** Emoill
-**Geboren: ** 1999
+**Name:** Emoill
+**Geboren:** 1999
